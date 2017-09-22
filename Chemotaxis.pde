@@ -9,5 +9,18 @@
  }  
  class Bacteria    
  {     
- 	//lots of java!   
+   int myX, myY; 
+   Bacteria(int x, int y)
+   {
+     myX= x;
+     myY = y;
+   }
+   void move()
+   {
+     
+   }
+   void show()
+   {
+     
+   }
  }    
